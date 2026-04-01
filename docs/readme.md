@@ -11,3 +11,4 @@ Hello! I am currently studying Media Arts, Design, and Technology, with a strong
 ## ⚙️ Tools & Skills
 - **Skills:** Game Design, Illustration, Coding
 - **Technologies:** Blender, Adobe Suite, GitHub Desktop, VS Code
+Illustrator 
